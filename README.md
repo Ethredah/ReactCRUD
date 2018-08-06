@@ -8,7 +8,6 @@
 
 _Feel free to use different data for your application_
 
-![alt text](https://avatars1.githubusercontent.com/u/10936912?v=4 "Description")
 
 
 
