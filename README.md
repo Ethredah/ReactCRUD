@@ -8,7 +8,7 @@
 
 _Feel free to use different data for your application_
 
-##### Sample Users.js Code 
+##### Some Part of Users.js Code 
 
 ```jsx
 
