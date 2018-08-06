@@ -8,8 +8,9 @@
 
 _Feel free to use different data for your application_
 
-##### Sample App.js Code 
-```react
+##### Sample Users.js Code 
+
+```jsx
 
 class Users extends React.Component {
 
