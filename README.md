@@ -5,7 +5,7 @@
 
 
 *The app uses sample user data for demonstration*
-![alt text](react.png "Add User Modal")
+![alt text](screenshot.png "Add User Modal")
 _Feel free to use different data for your application_
 
 ##### Some Part of Users.js Code 
